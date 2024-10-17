@@ -1,0 +1,2 @@
+# cashier
+automation with cypress
