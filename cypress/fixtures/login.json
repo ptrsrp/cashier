@@ -1,5 +1,4 @@
 {
-  "baseUrl": "https://kasirdemo.vercel.app/",
   "validEmail": "srituemail@test.com",
   "validPwd": "Test123"
 }
